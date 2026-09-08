@@ -2,7 +2,7 @@
 
 A 2.5D action-platformer developed in Unity featuring physics-based movement, projectile combat, collectibles, platforming, and state-machine-driven enemy AI.
 
-([alt text](image.png))
+![alt text](image-1.png)
 
 ---
 
