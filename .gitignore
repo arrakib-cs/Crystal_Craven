@@ -1,0 +1,70 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE folders
+.vscode/
+.vs/
+.idea/
+
+# Unity / Visual Studio generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Unity crash files
+sysinfo.txt
+
+# ============================================================
+# Third-party Unity assets
+# Not included in public source repository
+# ============================================================
+
+/Assets/RPG CRYSTALS/
+/Assets/RPG CRYSTALS.meta
+
+/Assets/AllSkyFree/
+/Assets/AllSkyFree.meta
+
+/Assets/Infima Games/
+/Assets/Infima Games.meta
+
+/Assets/Robot_Soldier/
+/Assets/Robot_Soldier.meta
+
+/Assets/Blink/
+/Assets/Blink.meta
+
+/Assets/Low Poly Environment Starter Kit/
+/Assets/Low Poly Environment Starter Kit.meta
+
+/Assets/Skyden_Games/
+/Assets/Skyden_Games.meta
+
+/Assets/Free Low Poly Game Assets/
+/Assets/Free Low Poly Game Assets.meta
+
+/Assets/FreeLowPolyRobot/
+/Assets/FreeLowPolyRobot.meta
+
+/Assets/TutorialInfo/
+/Assets/TutorialInfo.meta
